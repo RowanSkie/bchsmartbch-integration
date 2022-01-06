@@ -1,4 +1,6 @@
-# Fabric Example Mod
+# BCH/SmartBCH Integration Mod
+
+Attempts to add in BCH/SmartBCH integration mod, as requested/commissioned/whichever it works. Will be sporadically be updated.
 
 ## Setup
 
